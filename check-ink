@@ -1,0 +1,5 @@
+####################################################
+#
+# check inklevel
+#
+4/5       *       *       *       *       sanpei  /usr/local/bin/ruby /home/sanpei/src/libinklevel/check-ink/check-ink.rb > /tmp/checkinklevel.log 2>&1
